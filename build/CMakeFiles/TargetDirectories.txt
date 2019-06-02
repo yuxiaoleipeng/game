@@ -1,0 +1,10 @@
+/usr/src/build/CMakeFiles/rebuild_cache.dir
+/usr/src/build/CMakeFiles/edit_cache.dir
+/usr/src/build/Framework/CMakeFiles/rebuild_cache.dir
+/usr/src/build/Framework/CMakeFiles/edit_cache.dir
+/usr/src/build/Framework/Common/CMakeFiles/rebuild_cache.dir
+/usr/src/build/Framework/Common/CMakeFiles/edit_cache.dir
+/usr/src/build/Framework/Common/CMakeFiles/Common.dir
+/usr/src/build/Empty/CMakeFiles/rebuild_cache.dir
+/usr/src/build/Empty/CMakeFiles/edit_cache.dir
+/usr/src/build/Empty/CMakeFiles/Empty.dir
