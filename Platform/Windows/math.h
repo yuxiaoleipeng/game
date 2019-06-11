@@ -278,3 +278,4 @@ void MatrixMultiply(float* result, float* matrix1, float* matrix2)
 
 	return;
 }
+
